@@ -780,7 +780,11 @@ button:hover,
 /* SoundCloud */
 .button.button-soundcloud {
   color: #ffffff;
-  background-color: #ff5500;
+  background-image: linear-gradient(90deg, #ff5100, #ff2600);
+}
+.button.button-soundcloud2 {
+  color: #ffffff;
+  background-image: linear-gradient(90deg, #ff2508, #ff802b);
 }
 .button.button-soundcloud:hover,
 .button.button-soundcloud:focus {
